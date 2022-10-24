@@ -90,11 +90,11 @@ if __name__ == '__main__':
     A = AtmLight(I,dark);
     te = TransmissionEstimate(I,A,15);
     t = TransmissionRefine(src,te);
-    J = Recover(I,t,A,0.1);
+    J = Recover(I,te,A,0.1);
 
     cv2.imshow("dark",dark);
     cv2.imshow("t",t);
     cv2.imshow('I',src);
     cv2.imshow('J',J);
-    cv2.imwrite("T:\GitHub\DIP_lv\Experiment2\img\J.png",J*255);
+    cv2.imwrite("T:\GitHub\DIP_lv\Experiment2\img\J_te.png",J*255);
     cv2.waitKey();
