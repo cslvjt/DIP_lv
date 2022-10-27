@@ -20,4 +20,9 @@ https://www.cnblogs.com/Imageshop/p/3281703.html
 <img src=./assest/experiment4.jpeg>
 
 # Experiment5
+## 实验要求
 <img src=./assest/experiment5.jpg>
+
+# Experiemnt6
+## 实验要求
+<img src=./assest/experiment6.jpg>
