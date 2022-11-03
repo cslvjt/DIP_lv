@@ -12,7 +12,8 @@
 
 ## 参考文献
 https://www.cnblogs.com/Imageshop/p/3281703.html
-# Experiment3
+
+# Experiment3(11_3)
 ## 实验要求
 <img src=./assest/experiment3.jpeg>
 
@@ -26,13 +27,15 @@ https://www.cnblogs.com/Imageshop/p/3281703.html
 
 ## 参考文献
 + https://blog.csdn.net/weixin_44580210/article/details/105106563
-# Experiemnt6
+
+# Experiemnt6(11_3)
 ## 实验要求
 <img src=./assest/experiment6.jpg>
 
 ## 参考文献
+https://blog.csdn.net/weixin_40244676/article/details/118177464
 
-# 实验7(11_3)
+# Experiment7(11_3)
 ## 实验要求
 <img src=./assest/experiment7.jpg>
 
@@ -40,7 +43,7 @@ https://www.cnblogs.com/Imageshop/p/3281703.html
 https://www.cnblogs.com/ranjiewen/p/6385564.html
 
 https://www.cnblogs.com/forcekeng/p/14381151.html
-# 实验8(11_3)
+# Experiment8(11_3)
 ## 实验要求
 <img src=./assest/experiment8.jpg>
 
